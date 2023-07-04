@@ -31,9 +31,8 @@ The repository is organized into folders corresponding to different parts of the
 
 Each part's exercise solutions are contained within their respective directories. To navigate to a specific part, click on the corresponding link above. In each part's directory, you will find the exercise descriptions and my solution files or directories.
 
-Feel free to explore the code and use it as a reference for your own learning. Please note that these are my personal solutions and may not be the only or the best way to solve the exercises. Use them as a guide to enhance your understanding and compare with your own solutions.
+Please note that while you can refer to these solutions for learning purposes, it is important to avoid direct copying as plagiarism is strongly discouraged. It is recommended to use these solutions as a reference to enhance your understanding and compare with your own solutions. Taking the time to solve the exercises independently will ensure a better learning experience.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
